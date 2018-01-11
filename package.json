@@ -13,7 +13,7 @@
   "author": "Christoph Stickel <christoph@neochic.de>",
   "license": "MIT",
   "homepage": "https://github.com/Neochic/ignore-css-entries-webpack-plugin",
-  "dependencies": {
+  "devDependencies": {
     "jasmine": "^2.8.0"
   }
 }
