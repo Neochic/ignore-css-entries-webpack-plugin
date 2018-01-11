@@ -1,0 +1,19 @@
+{
+  "name": "ignore-css-entries-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Ingore generated JS files for entries that are used for generating CSS files via ExtractTextPlugin.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Neochic/ignore-css-entries-webpack-plugin.git"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Christoph Stickel <christoph@neochic.de>",
+  "license": "MIT",
+  "homepage": "https://github.com/Neochic/ignore-css-entries-webpack-plugin",
+  "dependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
